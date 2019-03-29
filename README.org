@@ -1,8 +1,8 @@
 #+ATTR_ORG: :width 400
-* A game from the Friday morning lecture to the students at Vidzemes university.
+* A game from the Friday morning lecture to the students of Vidzemes university.
 
 I added unnecessary complexity to the project, just to show that there are different ways to accomplish your goals.
 
-Though usually that complexity is described with comments.
+Though usually comments are used to describe that complexity.
 
 If you have any questions guys do come to our streams and be curious! ;)
