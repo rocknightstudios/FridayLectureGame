@@ -6,3 +6,5 @@ I added unnecessary complexity to the project, just to show that there are diffe
 Though usually comments are used to describe that complexity.
 
 If you have any questions guys do come to our streams and be curious! ;)
+
+P.S. If you just want to check out the game without the project, just click on releases tab and download game binary.
