@@ -1,6 +1,5 @@
 #+ATTR_ORG: :width 400
-* A game about goddess Freyja and her magical kitties.
-A game from the Friday morning lecture to the students at Vidzemes university.
+* A game from the Friday morning lecture to the students at Vidzemes university.
 
 I added unnecessary complexity to the project, just to show that there are different ways to accomplish your goals.
 
